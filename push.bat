@@ -18,6 +18,6 @@ echo ----- ----- Commit ended ----- -----
 :: 最后推送提交
 echo ----- ----- Push commits ----- -----
 git push
-echo ----- ----- Push ended ----- -----
+echo ----- ----- Push ended ~ ----- -----
 
 pause
