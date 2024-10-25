@@ -19,5 +19,5 @@ echo ----- ----- Commit ended ----- -----
 echo ----- ----- Push commits ----- -----
 git push
 echo ----- ----- Push ended ~ ----- -----
-
+\
 pause
