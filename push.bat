@@ -6,12 +6,12 @@ git status
 
 echo ----- ----- Add changed files ----- -----
 git add .
-echo
+echo;
 echo ----- ----- Add ended ----- -----
 
 echo echo ----- ----- Commit files ----- -----
 git commit -m "Auto Commit"
-echo
+echo;
 echo ----- ----- Commit ended ----- -----
 
 
