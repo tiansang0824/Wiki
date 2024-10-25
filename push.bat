@@ -8,7 +8,7 @@ echo ----- ----- Add changed files ----- -----
 git add .
 echo ----- ----- Add ended ----- -----
 
-echo echo ----- ----- Commit files ----- -----
+echo ----- ----- Commit files ----- -----
 git commit -m "Auto Commit"
 echo ----- ----- Commit ended ----- -----
 
